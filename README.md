@@ -4,7 +4,7 @@ Draw a digit in the air with your index finger, then press **r** to classify it 
 
 ## Demo
 
-[Watch the recorded demo (MP4, about 6 seconds)](assets/demo.mp4)
+[Watch or download the recorded demo (MP4, about 6 seconds)](assets/demo.mp4?raw=true)
 
 ![Air-writing application interface](assets/interface.png)
 
