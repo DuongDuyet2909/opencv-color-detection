@@ -4,7 +4,7 @@ from PIL import Image
 from util import get_limits
 
 
-yellow = [0, 255, 255]  # yellow in BGR colorspace
+yellow = [0, 255, 255]  # Màu vàng trong không gian màu BGR (Blue, Green, Red).
 cap = cv2.VideoCapture(0) # mở camera
 while True:
     ret, frame = cap.read() # đọc khung hình từ camera
